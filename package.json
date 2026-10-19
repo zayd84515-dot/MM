@@ -1,0 +1,12 @@
+{
+  "name": "afia-clothing-store",
+  "version": "1.0.0",
+  "private": true,
+  "description": "متجر عافية للملابس",
+  "scripts": {
+    "start": "node --env-file=.env server.js"
+  },
+  "engines": {
+    "node": ">=22.5"
+  }
+}

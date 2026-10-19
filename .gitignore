@@ -1,0 +1,6 @@
+data/store.sqlite
+data/store.sqlite-shm
+data/store.sqlite-wal
+data/uploads/
+.env
+node_modules/
